@@ -19,7 +19,6 @@ __pycache__/
 *.pyo
 
 *.log
-*.txt
 test_output.txt
 
 .venv/
@@ -39,3 +38,5 @@ Thumbs.db
 
 .vscode/
 .idea/
+cursor/
+agent-transcripts/
